@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wezaa/static/css/main.13f744ae.css",
+    "main.js": "/wezaa/static/js/main.88d10861.js",
+    "index.html": "/wezaa/index.html",
+    "main.13f744ae.css.map": "/wezaa/static/css/main.13f744ae.css.map",
+    "main.88d10861.js.map": "/wezaa/static/js/main.88d10861.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13f744ae.css",
+    "static/js/main.88d10861.js"
+  ]
+}
